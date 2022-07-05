@@ -12,9 +12,13 @@ html {
   background: #00f;
 } */
 
+.wrapper {
+  position: relative;
+}
+
 .content {
   display: flex;
   justify-content: center;
   padding: 100px 20px;
-  background: #c99;
+  background: #1f8d61;
 }
