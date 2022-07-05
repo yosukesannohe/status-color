@@ -8,9 +8,9 @@ html {
   background: #fff;
 }
 
-/* body {
-  background: #00f;
-} */
+body {
+  padding-top: env(safe-area-inset-top);
+}
 
 .wrapper {
   position: static;
