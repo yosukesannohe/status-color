@@ -13,7 +13,7 @@ html {
 } */
 
 .wrapper {
-  position: relative;
+  position: static;
 }
 
 .content {
