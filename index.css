@@ -8,13 +8,13 @@ html {
   background: #fff;
 }
 
-body {
+/* body {
   padding-top: env(safe-area-inset-top);
-}
+} */
 
-.wrapper {
+/* .wrapper {
   position: static;
-}
+} */
 
 .content {
   display: flex;
